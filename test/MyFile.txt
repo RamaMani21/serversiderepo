@@ -1,1 +1,2 @@
 This is MyFile
+this is the new content of the file
